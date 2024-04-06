@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\bin\Debug\net8.0\C# Static, Extension.exe
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\bin\Debug\net8.0\C# Static, Extension.deps.json
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\bin\Debug\net8.0\C# Static, Extension.runtimeconfig.json
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\bin\Debug\net8.0\C# Static, Extension.dll
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\bin\Debug\net8.0\C# Static, Extension.pdb
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.AssemblyInfo.cs
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.dll
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\refint\C# Static, Extension.dll
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.pdb
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\C# Static, Extension.genruntimeconfig.cache
+C:\Users\User\Desktop\Task11\C# Static, Extension\C# Static, Extension\obj\Debug\net8.0\ref\C# Static, Extension.dll

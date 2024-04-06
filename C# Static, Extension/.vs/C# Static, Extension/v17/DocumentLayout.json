@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|c:\\users\\user\\desktop\\task11\\c# static, extension\\c# static, extension\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|solutionrelative:c# static, extension\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|c:\\users\\user\\desktop\\task11\\c# static, extension\\c# static, extension\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|solutionrelative:c# static, extension\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|c:\\users\\user\\desktop\\task11\\c# static, extension\\c# static, extension\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|solutionrelative:c# static, extension\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|c:\\users\\user\\desktop\\task11\\c# static, extension\\c# static, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F905ABE-F5FE-4321-8353-5B824B67D7ED}|C# Static, Extension\\C# Static, Extension.csproj|solutionrelative:c# static, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Program.cs",
+              "RelativeDocumentMoniker": "C# Static, Extension\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Program.cs",
+              "RelativeToolTip": "C# Static, Extension\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:21:01.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Person.cs",
+              "RelativeDocumentMoniker": "C# Static, Extension\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Person.cs",
+              "RelativeToolTip": "C# Static, Extension\\Person.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:23:42.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Product.cs",
+              "RelativeDocumentMoniker": "C# Static, Extension\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Product.cs",
+              "RelativeToolTip": "C# Static, Extension\\Product.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:24:02.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Store.cs",
+              "RelativeDocumentMoniker": "C# Static, Extension\\Store.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task11\\C# Static, Extension\\C# Static, Extension\\Store.cs",
+              "RelativeToolTip": "C# Static, Extension\\Store.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:24:38.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
